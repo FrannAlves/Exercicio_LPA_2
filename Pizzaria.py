@@ -1,6 +1,6 @@
 acumulador = 0#variavel criada para guardar e somar os valoresdentro do laço
 
-print(' Bem-vindo a pizzaria da Francielle Alves Sousa!!!')
+print(' Bem-vindo a pizzaria Bom Gosto!!!')
 print('            **********************OPÇÕES**********************')
 print('| Código |    Descrição    |    Pizza Média-M  | Pizza Grande-G(30% mais cara|')
 print('|  21    |    Napolitana   |      R$ 20,00     |        R$ 26,00             |')
